@@ -1,0 +1,6 @@
+name    'jumio-nsswitch'
+version '0.0.1'
+author  'Markus Burger'
+license 'Apache2'
+summary 'Puppet module for nsswitch'
+description 'This module installs and manages nsswitch. Check README for details.'
